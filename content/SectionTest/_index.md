@@ -9,7 +9,7 @@ weight = 1
 
 # Slide one
 
-Text for slide one.
+Text for slide one. Section.
 
 ---
 
